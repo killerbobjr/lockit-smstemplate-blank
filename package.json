@@ -1,7 +1,7 @@
 {
   "name": "lockit-smstemplate-blank",
   "version": "0.0.1",
-  "description": "blank email-to-sms template for lockit",
+  "description": "blank email-to-sms template for lockit, legacy version",
   "main": "index.js",
   "scripts": {
     "test": "grunt"
